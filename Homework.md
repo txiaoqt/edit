@@ -1,16 +1,18 @@
 # Homework
 
-# Feature Overlap Research: Quezon City and Pasig City
+# Feature Overlap Research: Quezon City, Pasig City, and Manila City
 
 ## Purpose
 
-This document identifies official Quezon City and Pasig City online services that may overlap with the proposed app features. The goal is to avoid building a redundant system and to reposition the app as a youth-focused, complementary platform where needed.
+This document identifies official Quezon City, Pasig City, and Manila City online services that may overlap with the proposed app features. The goal is to avoid building a redundant system and to reposition the app as a youth-focused, complementary platform where needed.
 
 ## Summary of Findings
 
 Quezon City has a mature digital service ecosystem. The strongest overlaps are with QC e-Services, QCitizen ID, QC Scholarship Application and Renewal, QCYDO youth organization registration, QC Helpline 122 ticketing, QC Open Data Dashboard, public information request services, and transparency report downloads.
 
 Pasig City also has several overlapping official services. The strongest overlaps are with PasigPass, Ugnayan sa Pasig, the Pasig Full Disclosure Portal, PCYDO youth organization registration, youth activity announcements, SPES online applications, downloadable forms, and official online service portals.
+
+Manila City also has existing digital and youth-related services. The strongest overlaps are with GO Manila, Manila E-Citizen, Manila EDP/online transaction support, BOSS/GO Manila helpdesks, Manila transparency and open governance pages, Manila Youth Development and Welfare Bureau activities, Manila Youth Development Council updates, SPES youth employment activities, Manila Sports Council programs, and official news/advisory pages.
 
 The proposed app should not be presented as a replacement for existing city systems. It should be positioned as a youth-specific support tool that can organize LYDO-related information, link to official services, and provide youth-focused monitoring or reporting not clearly available in the existing portals.
 
@@ -50,6 +52,25 @@ The proposed app should not be presented as a replacement for existing city syst
 | YPOP Program Notice | Official news release | [YPOP 2025](https://pasigcity.gov.ph/news-and-releases/pasig-yo-at-ysos-maari-na-kayo-magpasa-ng-inyong-youth-participation-organization-passport-969) | Confirms Youth Participation Organization Passport validation, youth organization participation records, and project grant incentive process. |
 | SPES OSY Application Notice | Official news release | [SPES OSY 2026](https://pasigcity.gov.ph/news-and-releases/magbubukas-muli-ang-aplikasyon-para-sa-spes-osy-tara-join-na-736) | Confirms online application form links for Special Program for Employment of Students for out-of-school youth. |
 
+## Manila City Official Sources Checked
+
+| Source Name | Type of Source | Link | Notes |
+|---|---|---|---|
+| Manila City Official Website | Official city website | [City of Manila](https://manila.gov.ph/) | Publishes city services, news, youth updates, advisories, transparency pages, and office information. |
+| GO Manila | Official city mobile app page | [GO Manila](https://manila.gov.ph/go-manila/) | Confirms official app for city services, real property and business tax payments, bill payments, and e-wallet services. |
+| Manila E-Citizen | Online portal | [Manila E-Citizen](https://ecitizen.ph/) | Direct portal requires JavaScript; search-visible text identifies it as a Manila Resident's ID portal, but service details need verification. |
+| Electronic Data Processing Services | Official department page | [Manila EDP](https://manila.gov.ph/edp/) | Confirms management of computerized information systems, official website, automation, and Go Manila transaction helpdesk support. |
+| GO Manila Helpdesk | Official helpdesk page | [GO Manila Helpdesk](https://manila.gov.ph/gomanilahelpdesk/) | Confirms inquiry and concern channels for GO Manila online transactions and client survey. |
+| BOSS Helpdesk | Official helpdesk page | [BOSS Helpdesk](https://manila.gov.ph/boss-helpdesk/) | Confirms online business permit support through Go Manila, including access, account, SOA, payment, and permit concerns. |
+| Transparency Page | Official transparency page | [Manila Transparency](https://manila.gov.ph/transparency/) | Lists Citizen's Charter, procurement/BAC documents, Philippine Transparency Seal, PhilGEPS, and DILG Full Disclosure Policy links. |
+| OGP Portal | Official open governance page | [Manila OGP](https://manila.gov.ph/ogp/) | Lists open access information, report concern, Citizen's Charter, RFQs, invitations to bid, notices of award, annual procurement plan, and livestreaming/videos. |
+| Official Facebook Page Directory | Official city page | [Official Facebook page directory](https://manila.gov.ph/heres-a-list-of-the-official-facebook-pages-of-the-offices-bureaus-and-departments-under-the-manila-city-government/) | Lists official Facebook pages of Manila offices, including Youth Development and Welfare Bureau and Manila Sports Council. |
+| Youth Power is Back | Official news release | [Youth Power is Back](https://manila.gov.ph/youth-power-is-back/) | Confirms Youth Development and Welfare Bureau participation in Boys and Girls Week Celebration. |
+| Manila Youth Development Council Oath-Taking | Official date archive/news page | [MYDC oath-taking](https://manila.gov.ph/2025/12/11/) | Confirms Manila Youth Development Council members and officers took oath with the mayor and YDWB OIC. |
+| SPES 2025 is Now Open | Official news release | [SPES 2025](https://manila.gov.ph/spes-2025-is-now-open/) | Confirms SPES youth employment activity with PESO, DOLE, NYC, and Manila Youth Development and Welfare Bureau. |
+| Hiring SPES 2025 | Official news release | [Hiring SPES 2025](https://manila.gov.ph/hiring-spes-2025/) | Confirms SPES hiring event, downloadable form link, PESO contact, and youth employment program details. |
+| Manila Sports Council | Official office page | [Manila Sports Council](https://manila.gov.ph/sports/) | Confirms youth sports development mission, programs/events, advisories, and official Facebook link. |
+
 ## Quezon City Possible Feature Overlaps
 
 | Existing QC Feature / Service | Description | Related App Feature | Overlap Level | Source |
@@ -86,59 +107,77 @@ The proposed app should not be presented as a replacement for existing city syst
 | Youth Participation Organization Passport | PCYDO process for validating youth organization participation records and project grant incentives. | Participation tracking, youth organization reports | High Overlap | [YPOP 2025](https://pasigcity.gov.ph/news-and-releases/pasig-yo-at-ysos-maari-na-kayo-magpasa-ng-inyong-youth-participation-organization-passport-969) |
 | SPES OSY Online Application | Official notice states online application form links are posted for out-of-school youth applicants. | Program registration | Moderate Overlap | [SPES OSY 2026](https://pasigcity.gov.ph/news-and-releases/magbubukas-muli-ang-aplikasyon-para-sa-spes-osy-tara-join-na-736) |
 
+## Manila City Possible Feature Overlaps
+
+| Existing Manila Feature / Service | Description | Related App Feature | Overlap Level | Source |
+|---|---|---|---|---|
+| GO Manila Mobile App | Official app for city services, real property and business tax payments, bill payments, and e-wallet services. | User registration/profile access, general online services, payment-related service transactions | Moderate Overlap | [GO Manila](https://manila.gov.ph/go-manila/) |
+| Manila E-Citizen / Resident's ID Portal | Portal appears to support Manila resident ID access, but the public page requires JavaScript and details were not fully visible. | User registration and profile management | Possible Overlap, Needs Verification | [Manila E-Citizen](https://ecitizen.ph/) |
+| Electronic Data Processing Services | Office manages computerized information systems, official website, automation, and helpdesk support for Go Manila transactions. | Admin systems, portal support, dashboard/reporting infrastructure | Moderate Overlap | [Manila EDP](https://manila.gov.ph/edp/) |
+| GO Manila Helpdesk | Handles inquiries and concerns related to GO Manila online transactions and service satisfaction surveys. | Youth Desk / ticket requests and service inquiries | Moderate Overlap | [GO Manila Helpdesk](https://manila.gov.ph/gomanilahelpdesk/) |
+| BOSS Helpdesk | Supports business permits, GO Manila access, account concerns, SOA concerns, and payment concerns. | Service requests, account support, document/application tracking | Moderate Overlap | [BOSS Helpdesk](https://manila.gov.ph/boss-helpdesk/) |
+| Manila Transparency Page | Lists Citizen's Charter, procurement/BAC documents, Philippine Transparency Seal, PhilGEPS, and DILG Full Disclosure Policy links. | Public disclosure documents, document downloads, transparency information | High Overlap | [Manila Transparency](https://manila.gov.ph/transparency/) |
+| Manila OGP Portal | Lists open access information, report concern, Citizen's Charter, RFQs, invitations to bid, notices of award, annual procurement plan, legislation, and livestreaming/videos. | Public disclosure documents, document downloads, service requests, advisories | High Overlap | [Manila OGP](https://manila.gov.ph/ogp/) |
+| Manila Official News and Advisories | Official site publishes news releases, public advisories, youth updates, and city activities. | Service advisories, announcements, events | Moderate Overlap | [City of Manila](https://manila.gov.ph/) |
+| Manila Youth Development and Welfare Bureau Activities | YDWB is shown leading or joining youth activities such as Boys and Girls Week and SPES coordination. | Program management, event management, youth activity information | Moderate Overlap | [Youth Power is Back](https://manila.gov.ph/youth-power-is-back/), [SPES 2025](https://manila.gov.ph/spes-2025-is-now-open/) |
+| Manila Youth Development Council | Official update confirms MYDC officers and members took oath with city officials and YDWB. | Youth organization/council information, participation monitoring | Moderate Overlap | [MYDC oath-taking](https://manila.gov.ph/2025/12/11/) |
+| SPES 2025 / Youth Employment Activities | Official posts confirm SPES youth employment opportunities, downloadable forms, PESO coordination, and YDWB participation. | Program registration, program listing, youth employment programs | Moderate Overlap | [SPES 2025](https://manila.gov.ph/spes-2025-is-now-open/), [Hiring SPES 2025](https://manila.gov.ph/hiring-spes-2025/) |
+| Manila Sports Council Programs and Events | Official office page states MASCO develops youth sports skills and lists programs, events, advisories, and related news. | Youth programs, events, advisories | Moderate Overlap | [Manila Sports Council](https://manila.gov.ph/sports/) |
+| Official Manila Office Facebook Directory | Official Manila page lists Facebook pages of city offices, including YDWB and Manila Sports Council. | Announcements, office information, youth updates | Low Overlap | [Official Facebook page directory](https://manila.gov.ph/heres-a-list-of-the-official-facebook-pages-of-the-offices-bureaus-and-departments-under-the-manila-city-government/) |
+
 ## Feature-by-Feature Comparison
 
-| Our App Feature | Quezon City Existing Similar Service | Pasig City Existing Similar Service | Redundancy Risk | Notes |
-|---|---|---|---|---|
-| User registration and profile management | QC e-Services and QCitizen ID | PasigPass | High | High risk if the app creates another general city account instead of linking to official IDs. |
-| Role-based admin access | No public official source found for internal admin roles; QC e-Services likely has internal systems but details are not public. | No public official source found for internal admin roles. | Needs Verification | Do not label redundant without client confirmation. |
-| Youth organization management | QCYDO youth organization registration and renewal | PCYDO youth organization registration and YPOP validation | High | Strong overlap with official LYDO workflows in both cities. |
-| Program management | QCYDO program pages and QC e-Services scholarship workflows | PCYDO youth PPAs, SPES OSY applications, and city services pages | Medium | Useful only if focused on youth-specific coordination and not replacing official applications. |
-| Event management | QC calendar and QCYDO activity pages | Pasig news releases and LNK calendar | Medium | Existing websites already publish events, but detailed LYDO internal management may need verification. |
-| Event registration | QC e-Services handles some online applications; event-specific registration not fully verified. | SPES OSY uses online application links; LNK event registration details need verification. | Needs Verification | Could overlap if existing event registration forms already exist. |
-| Program registration | QC Scholarship Application and Renewal through QC e-Services | SPES OSY online application and other city service processes | High | High risk for scholarship/program application features. |
-| Barangay information | QC official barangay directory and dashboards; not all youth metrics verified. | Pasig official site includes barangay/public service information; specific youth metrics not verified. | Medium | Barangay-level youth dashboards may still be useful if not provided by existing systems. |
-| Office information | QCYDO department page and QC government directory | Pasig services pages and directory | High | Basic office information is already available. |
-| Citizen tickets or service requests | QC Helpline 122 and Citizen Services ticketing | Ugnayan sa Pasig | High | Strong overlap with official city helpdesk and ticket/request systems. |
-| Service advisories and announcements | QC public notices, calendar, and website updates | Pasig news releases and advisories | Medium | Existing sites already publish notices; app should link or filter youth-related notices. |
-| Public disclosure documents | QC Transparency Reports and public notices | Pasig Full Disclosure Portal | High | Strong overlap with official disclosure portals. |
-| Document downloads | QC public notices, QCYDO forms, and transparency documents | Pasig downloadable forms and Full Disclosure Portal | High | App should avoid duplicating official documents unless it links to them. |
-| Barangay financial records | QC budget/financial downloads and Open Data Dashboard; SK-specific barangay financial records need verification. | Pasig Full Disclosure Portal includes financial aid to barangays; SK-specific records need verification. | Medium | Financial transparency exists, but youth/SK-specific detail may need client confirmation. |
-| Youth metrics or reports | QC Open Data Dashboard includes QC Scholarship Program and other datasets. | S1NCRO and YPOP show youth-sector reporting activity, but public dashboards are not clearly verified. | Medium | A youth-specific dashboard may still be valuable if it adds analytics not already public. |
-| Compliance monitoring | QCYDO reviews SK CBYDP and ABYIP submissions. | PCYDO/YPOP and youth PPA coordination indicate related monitoring, but formal compliance dashboard not verified. | Medium | Useful if it tracks LYDO-specific compliance that official portals do not expose. |
-| Audit logs or activity tracking | No public official source found. | No public official source found. | Needs Verification | Keep as internal feature only if client confirms need. |
-| Dashboard or reporting features | QC Open Data Dashboard | Full Disclosure Portal and official reports; no youth dashboard verified | Medium | QC already has strong dashboard overlap; Pasig overlap is more document/report based. |
+| Our App Feature | Quezon City Existing Similar Service | Pasig City Existing Similar Service | Manila City Existing Similar Service | Redundancy Risk | Notes |
+|---|---|---|---|---|---|
+| User registration and profile management | QC e-Services and QCitizen ID | PasigPass | GO Manila and possible Manila E-Citizen / Resident's ID Portal | High | High risk if the app creates another general city account instead of linking to official IDs or portals. |
+| Role-based admin access | No public official source found for internal admin roles; QC e-Services likely has internal systems but details are not public. | No public official source found for internal admin roles. | EDP confirms computerized systems and automation, but public admin-role details are not available. | Needs Verification | Do not label redundant without client confirmation. |
+| Youth organization management | QCYDO youth organization registration and renewal | PCYDO youth organization registration and YPOP validation | MYDC and YDWB activities are confirmed, but formal youth organization registration details need verification. | High | Strong overlap in QC and Pasig; Manila needs more interview verification for formal registration workflows. |
+| Program management | QCYDO program pages and QC e-Services scholarship workflows | PCYDO youth PPAs, SPES OSY applications, and city services pages | YDWB/SPES youth activities and Manila Sports Council programs/events | Medium | Useful only if focused on youth-specific coordination and not replacing official applications. |
+| Event management | QC calendar and QCYDO activity pages | Pasig news releases and LNK calendar | Manila official news/advisories, YDWB activities, Manila Sports Council events | Medium | Existing websites already publish events, but detailed LYDO internal management may need verification. |
+| Event registration | QC e-Services handles some online applications; event-specific registration not fully verified. | SPES OSY uses online application links; LNK event registration details need verification. | SPES event forms are posted; broader event registration details need verification. | Needs Verification | Could overlap if existing event registration forms already exist. |
+| Program registration | QC Scholarship Application and Renewal through QC e-Services | SPES OSY online application and other city service processes | SPES 2025 posts include downloadable forms; GO Manila handles general city transactions. | High | High risk for scholarship/program application features if the app duplicates official processes. |
+| Barangay information | QC official barangay directory and dashboards; not all youth metrics verified. | Pasig official site includes barangay/public service information; specific youth metrics not verified. | Manila official news includes barangay-related updates, but youth metrics are not clearly verified. | Medium | Barangay-level youth dashboards may still be useful if not provided by existing systems. |
+| Office information | QCYDO department page and QC government directory | Pasig services pages and directory | Manila office pages and official Facebook page directory | High | Basic office information is already available. |
+| Citizen tickets or service requests | QC Helpline 122 and Citizen Services ticketing | Ugnayan sa Pasig | Manila OGP says "Report your concern"; GO Manila/BOSS helpdesks handle inquiries and concerns. | High | Strong overlap with official city helpdesk and request channels. |
+| Service advisories and announcements | QC public notices, calendar, and website updates | Pasig news releases and advisories | Manila official website, news releases, public advisories, and official office Facebook pages | Medium | Existing sites already publish notices; app should link or filter youth-related notices. |
+| Public disclosure documents | QC Transparency Reports and public notices | Pasig Full Disclosure Portal | Manila Transparency page and OGP portal | High | Strong overlap with official disclosure portals. |
+| Document downloads | QC public notices, QCYDO forms, and transparency documents | Pasig downloadable forms and Full Disclosure Portal | Manila Transparency/OGP documents and SPES downloadable forms | High | App should avoid duplicating official documents unless it links to them. |
+| Barangay financial records | QC budget/financial downloads and Open Data Dashboard; SK-specific barangay financial records need verification. | Pasig Full Disclosure Portal includes financial aid to barangays; SK-specific records need verification. | Manila news confirms barangay fund releases; official youth/SK-specific financial records need verification. | Medium | Financial transparency exists, but youth/SK-specific detail may need client confirmation. |
+| Youth metrics or reports | QC Open Data Dashboard includes QC Scholarship Program and other datasets. | S1NCRO and YPOP show youth-sector reporting activity, but public dashboards are not clearly verified. | MYDC/YDWB/SPES activity posts exist, but no public youth analytics dashboard was clearly verified. | Medium | A youth-specific dashboard may still be valuable if it adds analytics not already public. |
+| Compliance monitoring | QCYDO reviews SK CBYDP and ABYIP submissions. | PCYDO/YPOP and youth PPA coordination indicate related monitoring, but formal compliance dashboard not verified. | MYDC and YDWB coordination exists, but formal SK/LYDO compliance dashboard was not verified. | Medium | Useful if it tracks LYDO-specific compliance that official portals do not expose. |
+| Audit logs or activity tracking | No public official source found. | No public official source found. | No public official source found. | Needs Verification | Keep as internal feature only if client confirms need. |
+| Dashboard or reporting features | QC Open Data Dashboard | Full Disclosure Portal and official reports; no youth dashboard verified | Manila Transparency/OGP pages provide documents, but no public youth dashboard was verified. | Medium | QC has strong dashboard overlap; Pasig and Manila overlap is more document/report based. |
 
 ## Potentially Redundant Features
 
-- User registration and profile management - QC already uses QCitizen ID and QC e-Services, while Pasig has PasigPass. A separate general account system may duplicate official city identity/access systems.
-- Program registration - QC Scholarship Application and Renewal already runs through QC e-Services, while Pasig has online application processes such as SPES OSY. Duplicating applications may confuse users.
-- Youth organization management - QCYDO and PCYDO both already have official youth organization registration or validation processes.
-- Citizen or Youth Desk tickets - QC Helpline 122/Citizen Services and Ugnayan sa Pasig already handle complaints, requests, suggestions, and information inquiries.
-- Public disclosure documents and document downloads - QC has transparency reports/public notices, while Pasig has a Full Disclosure Portal and downloadable forms.
-- General announcements and advisories - Both city websites already publish official news, public notices, advisories, and event announcements.
+- User registration and profile management - QC already uses QCitizen ID and QC e-Services, Pasig has PasigPass, and Manila has GO Manila plus a possible Manila E-Citizen / Resident's ID Portal. A separate general account system may duplicate official city identity/access systems.
+- Program registration - QC Scholarship Application and Renewal already runs through QC e-Services, Pasig has online application processes such as SPES OSY, and Manila posts SPES youth employment forms and activities. Duplicating applications may confuse users.
+- Youth organization management - QCYDO and PCYDO both already have official youth organization registration or validation processes, while Manila has confirmed MYDC/YDWB youth structures that need further workflow verification.
+- Citizen or Youth Desk tickets - QC Helpline 122/Citizen Services, Ugnayan sa Pasig, and Manila OGP/GO Manila helpdesk channels already handle concerns, inquiries, requests, or service support.
+- Public disclosure documents and document downloads - QC has transparency reports/public notices, Pasig has a Full Disclosure Portal and downloadable forms, and Manila has Transparency/OGP pages with disclosure and procurement documents.
+- General announcements and advisories - QC, Pasig, and Manila official websites already publish official news, public notices, advisories, and event announcements.
 - Dashboard/reporting features for Quezon City - QC Open Data Dashboard already provides program and service dashboards, including QC Scholarship Program and Helpline 122.
 
 ## Features That May Still Be Useful
 
 - Youth-specific program directory - It can still help if it only organizes LYDO-related programs and links users to official application portals instead of duplicating them.
-- Youth organization information hub - It can show youth organizations, focus areas, and public profiles while leaving formal registration to QCYDO or PCYDO.
-- Barangay-level youth monitoring - It may still be useful if it tracks youth-specific indicators not already visible in QC or Pasig official dashboards.
+- Youth organization information hub - It can show youth organizations, focus areas, and public profiles while leaving formal registration to QCYDO, PCYDO, or Manila's verified youth offices/councils.
+- Barangay-level youth monitoring - It may still be useful if it tracks youth-specific indicators not already visible in QC, Pasig, or Manila official dashboards.
 - Internal LYDO participation analytics - It can provide summaries for youth participation, attendance, and organization engagement if official portals do not already provide these reports.
 - Client-facing transparency summary - It can present youth-related transparency data in a simpler way, as long as official documents remain the source of truth.
-- Integration and redirect layer - The app can guide users to QC e-Services, PasigPass, Ugnayan, Full Disclosure, or other official systems instead of replacing them.
+- Integration and redirect layer - The app can guide users to QC e-Services, PasigPass, Ugnayan, GO Manila, Manila OGP/Transparency, Full Disclosure, or other official systems instead of replacing them.
 - Admin coordination workspace - It can help LYDO staff prepare reports and monitor youth activities internally if it does not duplicate official government transaction systems.
 
 ## Recommendations
 
 - Focus on youth-specific workflows instead of general city services.
-- Integrate or link to QC e-Services, PasigPass, Ugnayan sa Pasig, and official disclosure portals instead of duplicating them.
+- Integrate or link to QC e-Services, PasigPass, Ugnayan sa Pasig, GO Manila, Manila OGP/Transparency, and official disclosure portals instead of duplicating them.
 - Do not build a separate scholarship, SPES, or public service request application unless the client confirms a gap.
 - Use official city portals as the source of truth for documents, forms, and applications.
 - Focus on barangay-level youth monitoring, participation summaries, and LYDO-specific analytics.
 - Keep the app complementary by acting as a youth information hub, reporting layer, or internal coordination tool.
 - Ask the client which existing city systems have APIs, export files, or coordination points.
-- Mark uncertain features for validation during the next client interview before continuing development.
+- Mark uncertain features, especially Manila E-Citizen and Manila youth organization registration workflows, for validation during the next client interview before continuing development.
 
 ## References
 
@@ -167,3 +206,17 @@ The proposed app should not be presented as a replacement for existing city syst
 - [Linggo ng Kabataan 2025](https://pasigcity.gov.ph/news-and-releases/2025-linggo-ng-kabataan-calendar-of-activities-handog-ng-pasig-city-youth-development-office-544)
 - [Youth Participation Organization Passport](https://pasigcity.gov.ph/news-and-releases/pasig-yo-at-ysos-maari-na-kayo-magpasa-ng-inyong-youth-participation-organization-passport-969)
 - [SPES OSY 2026](https://pasigcity.gov.ph/news-and-releases/magbubukas-muli-ang-aplikasyon-para-sa-spes-osy-tara-join-na-736)
+- [City of Manila](https://manila.gov.ph/)
+- [GO Manila](https://manila.gov.ph/go-manila/)
+- [Manila E-Citizen](https://ecitizen.ph/)
+- [Manila EDP](https://manila.gov.ph/edp/)
+- [GO Manila Helpdesk](https://manila.gov.ph/gomanilahelpdesk/)
+- [BOSS Helpdesk](https://manila.gov.ph/boss-helpdesk/)
+- [Manila Transparency](https://manila.gov.ph/transparency/)
+- [Manila OGP](https://manila.gov.ph/ogp/)
+- [Official Manila Facebook page directory](https://manila.gov.ph/heres-a-list-of-the-official-facebook-pages-of-the-offices-bureaus-and-departments-under-the-manila-city-government/)
+- [Youth Power is Back](https://manila.gov.ph/youth-power-is-back/)
+- [MYDC oath-taking](https://manila.gov.ph/2025/12/11/)
+- [SPES 2025](https://manila.gov.ph/spes-2025-is-now-open/)
+- [Hiring SPES 2025](https://manila.gov.ph/hiring-spes-2025/)
+- [Manila Sports Council](https://manila.gov.ph/sports/)
